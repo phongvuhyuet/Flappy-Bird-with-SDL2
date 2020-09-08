@@ -1,0 +1,1 @@
+This is a SDL2 game that i've made myself 100% after learned SDL2 course from lazyfoo.

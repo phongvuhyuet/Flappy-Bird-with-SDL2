@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\flappybird\flappybird\main.cpp(275): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\flappybird\flappybird\main.cpp(304): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FlappyBird.vcxproj -> D:\FlappyBird\x64\Debug\FlappyBird.exe
